@@ -1,4 +1,4 @@
-# Supervised-Learning---Predicting-Prison-Sentences
+# Supervised Learning: Predicting Prison Sentences
 Supervised Learning Project - Models applied include: Linear regressors, SVM, Random Forest
 
 This repository contains the process followed in the creation of multiple regression models for use in predicting sentences for crimes commited in Washington D.C. The notebook file includes data exploration through model tuning and final selection.

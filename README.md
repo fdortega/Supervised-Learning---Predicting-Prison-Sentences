@@ -5,7 +5,7 @@ This repository contains the process followed in the creation of multiple regres
 
 **Accessing the files:**
 
-Project notebook: [Predicting Prison Sentences.ipynb](https://github.com/fdortega/Supervised-Learning---Predicting-Prison-Sentences/blob/master/Predicting%20Prison%20Sentences.ipynb)
+Notebook for this project: [Predicting Prison Sentences.ipynb](https://github.com/fdortega/Supervised-Learning---Predicting-Prison-Sentences/blob/master/Predicting%20Prison%20Sentences.ipynb)
 
 Project presentation: [Predicting Prison Sentences.pdf](https://github.com/fdortega/Supervised-Learning---Predicting-Prison-Sentences/blob/master/Predicting%20Prison%20Sentences.pdf)
 
